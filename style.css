@@ -79,6 +79,7 @@ body {
     .left-side img {
         width: 250px;
         height: auto;
+        margin: 0 auto 20px auto;
         display: block;
     }
 
