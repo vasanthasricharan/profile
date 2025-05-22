@@ -71,3 +71,28 @@ body {
         align-items: center;
         padding: 10px;
     }
+    .left-side, .right-side {
+        width: 100%;
+        padding: 15px;
+    }
+
+    .left-side img {
+        width: 250px;
+        height: auto;
+        margin: 0 auto 20px auto;
+        display: block;
+    }
+
+    .left-side p,
+    .right-side h4,
+    .social-links a {
+        padding-left: 0;
+        margin-left: 0;
+        text-align: center;
+    }
+
+    .social-links {
+        text-align: center;
+    }
+}
+
